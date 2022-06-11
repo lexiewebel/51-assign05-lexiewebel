@@ -45,11 +45,11 @@ Task 2 [10 points] Calculate the financial value of your models based on the fol
 
 #### Part 2
 
-Fill in the name of your personal project here:
+Fill in the name of your personal project here: bcancer (https://github.com/vanderbilt-ml/51-webel-mlproj-bcancer)
 
 Complete the following issues created in your personal project repository:
 
-[20 points] Explore 3 different models in your ML pipeline for your personal project
+[20 points] Explore 3 different models in your ML pipeline for your personal project: I chose the following 3 models: Logistic Regression, XGBoost Classification, and Random Forest Classification. 
 
 [10 points] Compare your models based on business value metrics or closest proxy
 
