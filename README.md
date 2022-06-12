@@ -41,7 +41,7 @@ Task 2 [10 points] Calculate the financial value of your models based on the fol
 |Predicted Leave|TP|FP|
 |Predicted Stay|FN|TN|
 
-- Compare models on value, what is the best model according to your value metric?
+- Compare models on value, what is the best model according to your value metric? Random Forest Classifier. 
 
 #### Part 2
 
